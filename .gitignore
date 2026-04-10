@@ -1,0 +1,18 @@
+# ============================================================
+# Omega-Prime TradingBot G5 — Portfolio Repository
+# ============================================================
+# This public repository intentionally exposes ONLY two files:
+#   - .gitignore  (this file)
+#   - README.md   (project overview)
+#
+# All source code, prompts, configuration, data, and artifacts
+# are withheld as proprietary IP. The author can demonstrate
+# the system live upon request.
+# ============================================================
+
+# Ignore everything
+*
+
+# Except these two files
+!.gitignore
+!README.md
