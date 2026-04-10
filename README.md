@@ -1,4 +1,4 @@
-# TradingBot G4/G5 — Omega-Prime
+# TradingBot G5 — Omega-Prime
 
 > **Multi-engine quantitative trading bot with LLM-assisted reasoning layer, built for Binance USDT-M Futures.**
 > 물리·수학 기반 시그널 엔진 + LLM 추론 게이트를 결합한 실시간 암호화폐 선물 자동매매 시스템.
